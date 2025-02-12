@@ -6,3 +6,5 @@ arxiv
 faiss-cpu
 pymupdf
 python-dotenv
+scholarly
+biopython
