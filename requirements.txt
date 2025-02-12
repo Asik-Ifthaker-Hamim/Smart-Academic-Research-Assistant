@@ -1,0 +1,8 @@
+langchain
+openai
+googlesearch-python
+beautifulsoup4  # Needed for googlesearch-python
+arxiv
+faiss-cpu
+pymupdf
+python-dotenv
