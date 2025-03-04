@@ -218,20 +218,17 @@ cp .env.example .env
 
 6. **Run Application**
    ```bash
-uvicorn app.main:app --reload
-```
+   uvicorn app.main:app --reload
+   ```
 
 
-```bash 📄 License
-
+📄 License
 MIT License - See [LICENSE](LICENSE) for details
-
 ---
 
 <div align="center">
   <h3>🌟 Ready to Transform Your Research?</h3>
   <p>Start using the Academic Research Assistant today!</p>
 </div>
-```
 
 
