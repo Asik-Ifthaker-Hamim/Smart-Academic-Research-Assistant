@@ -221,7 +221,8 @@ cp .env.example .env
 uvicorn app.main:app --reload
 ```
 
-## 📄 License
+
+```bash 📄 License
 
 MIT License - See [LICENSE](LICENSE) for details
 
@@ -231,5 +232,6 @@ MIT License - See [LICENSE](LICENSE) for details
   <h3>🌟 Ready to Transform Your Research?</h3>
   <p>Start using the Academic Research Assistant today!</p>
 </div>
+```
 
 
