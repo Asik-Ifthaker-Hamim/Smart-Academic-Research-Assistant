@@ -55,7 +55,7 @@ graph TD
     C --> C1[SQLite]
     C --> C2[FAISS]
     C --> C3[File System]
-    D --> D1[GPT-4]
+    D --> D1[GPT-4o]
     D --> D2[LangChain]
     D --> D3[Sentence Transformers]
 ```
@@ -64,7 +64,7 @@ graph TD
 - **Web Framework**: FastAPI with Pydantic
 - **Database**: SQLAlchemy + SQLite
 - **Vector Store**: FAISS
-- **AI Models**: GPT-4, LangChain
+- **AI Models**: GPT-4o, LangChain
 - **Processing**: PyMuPDF, NLTK, Pandas
 
 ### Security Layer
