@@ -1,0 +1,24 @@
+langchain
+openai
+googlesearch-python
+beautifulsoup4  # Needed for googlesearch-python
+arxiv
+faiss-cpu
+pymupdf
+python-dotenv
+scholarly
+biopython
+reportlab
+google-search-results
+langchain-community
+langchain-openai
+langchain
+streamlit
+python-docx 
+xhtml2pdf 
+pypandoc
+fastapi[standard]
+passlib[bcrypt] 
+python-jose[cryptography] 
+fastapi-users 
+sqlalchemy
